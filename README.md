@@ -11,7 +11,7 @@ Below you can find a chart demonstrating the paths that you can take and the lib
 
 ## Roadmap
 
-![Roadmap](./roadmap.png)
+![Roadmap](/roadmap.png)
 
 ## Resources
 
