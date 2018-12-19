@@ -11,7 +11,7 @@ Below you can find a chart demonstrating the paths that you can take and the lib
 
 ## Roadmap
 
-![Roadmap](./roadmap.png)
+![Roadmap](https://github.com/adam-golab/react-developer-roadmap/blob/master/roadmap.png?raw=true)
 
 ## Resources
 
